@@ -16,7 +16,7 @@ namespace GestioneAgenda.Entità
 
         public override string ToString()
         {
-            return $"Nome: {NomeTask} \n Data dell'avvenimeto {DataScadenza} \n Livello di priorità: {LivelloDiPriorita}";
+            return $"Nome: {NomeTask}-Data dell'avvenimeto {DataScadenza}-Livello di priorità: {LivelloDiPriorita}";
         }
     }
 

@@ -9,6 +9,36 @@ namespace GestioneAgenda
 {
     internal static class ClasseMenagment
     {
+        public static ArrayList CaricaTalkDaFile()
+        {
+            ArrayList talksCaricateDaFile = new ArrayList();
+
+            string path = Path.Combine(Environment.GetFolderPath(Environment.SpecialFolder.Desktop), "agenda.txt");
+            string line;
+            using (StreamReader sr = File.OpenText(path))
+            {
+                line = sr.ReadLine();
+                while (line != null)
+                {
+                    string[] valoriTalks = line.Split('-');
+                    string nomeTask = valoriTalks[0].Substring(7);
+                    DateTime.TryParse(valoriTalks[1].Substring(21), out DateTime dataTalk);
+                    string livelloDiPriorita = valoriTalks[2].Substring(21);
+                    Tasks t = new Tasks()
+                    {
+                        NomeTask = nomeTask,
+                        DataScadenza = dataTalk,
+                        LivelloDiPriorita = livelloDiPriorita,
+                    };
+                    talksCaricateDaFile.Add(t);
+                    line = sr.ReadLine();
+                }
+            }
+
+            return talksCaricateDaFile;
+        }
+
+
         public static void StampaTasksSuFile(ArrayList tasks)
         {
             

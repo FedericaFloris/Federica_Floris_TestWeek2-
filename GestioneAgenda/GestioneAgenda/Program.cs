@@ -37,6 +37,7 @@ namespace GestioneAgenda
                 }
             }
             ClasseMenagment.StampaTasksSuFile(listaTasks);
+            // listaTasks =ClasseMenagment.CaricaTalkDaFile(); non funziona!!!
         }
 
         public static int SchermoMenu()

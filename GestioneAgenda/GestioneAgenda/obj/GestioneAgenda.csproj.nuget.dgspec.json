@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\39348\\Desktop\\Week.2Esercitazione\\GestioneAgenda\\GestioneAgenda\\GestioneAgenda.csproj": {}
+    "C:\\Users\\39348\\Desktop\\Federica_Floris_TestWeek2\\GestioneAgenda\\GestioneAgenda\\GestioneAgenda.csproj": {}
   },
   "projects": {
-    "C:\\Users\\39348\\Desktop\\Week.2Esercitazione\\GestioneAgenda\\GestioneAgenda\\GestioneAgenda.csproj": {
+    "C:\\Users\\39348\\Desktop\\Federica_Floris_TestWeek2\\GestioneAgenda\\GestioneAgenda\\GestioneAgenda.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\39348\\Desktop\\Week.2Esercitazione\\GestioneAgenda\\GestioneAgenda\\GestioneAgenda.csproj",
+        "projectUniqueName": "C:\\Users\\39348\\Desktop\\Federica_Floris_TestWeek2\\GestioneAgenda\\GestioneAgenda\\GestioneAgenda.csproj",
         "projectName": "GestioneAgenda",
-        "projectPath": "C:\\Users\\39348\\Desktop\\Week.2Esercitazione\\GestioneAgenda\\GestioneAgenda\\GestioneAgenda.csproj",
+        "projectPath": "C:\\Users\\39348\\Desktop\\Federica_Floris_TestWeek2\\GestioneAgenda\\GestioneAgenda\\GestioneAgenda.csproj",
         "packagesPath": "C:\\Users\\39348\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\39348\\Desktop\\Week.2Esercitazione\\GestioneAgenda\\GestioneAgenda\\obj\\",
+        "outputPath": "C:\\Users\\39348\\Desktop\\Federica_Floris_TestWeek2\\GestioneAgenda\\GestioneAgenda\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\39348\\AppData\\Roaming\\NuGet\\NuGet.Config",
