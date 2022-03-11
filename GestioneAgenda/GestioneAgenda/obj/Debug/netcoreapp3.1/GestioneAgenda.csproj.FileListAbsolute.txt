@@ -1,0 +1,14 @@
+C:\Users\39348\Desktop\Week.2Esercitazione\GestioneAgenda\GestioneAgenda\bin\Debug\netcoreapp3.1\GestioneAgenda.exe
+C:\Users\39348\Desktop\Week.2Esercitazione\GestioneAgenda\GestioneAgenda\bin\Debug\netcoreapp3.1\GestioneAgenda.deps.json
+C:\Users\39348\Desktop\Week.2Esercitazione\GestioneAgenda\GestioneAgenda\bin\Debug\netcoreapp3.1\GestioneAgenda.runtimeconfig.json
+C:\Users\39348\Desktop\Week.2Esercitazione\GestioneAgenda\GestioneAgenda\bin\Debug\netcoreapp3.1\GestioneAgenda.runtimeconfig.dev.json
+C:\Users\39348\Desktop\Week.2Esercitazione\GestioneAgenda\GestioneAgenda\bin\Debug\netcoreapp3.1\GestioneAgenda.dll
+C:\Users\39348\Desktop\Week.2Esercitazione\GestioneAgenda\GestioneAgenda\bin\Debug\netcoreapp3.1\GestioneAgenda.pdb
+C:\Users\39348\Desktop\Week.2Esercitazione\GestioneAgenda\GestioneAgenda\obj\Debug\netcoreapp3.1\GestioneAgenda.csproj.AssemblyReference.cache
+C:\Users\39348\Desktop\Week.2Esercitazione\GestioneAgenda\GestioneAgenda\obj\Debug\netcoreapp3.1\GestioneAgenda.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\39348\Desktop\Week.2Esercitazione\GestioneAgenda\GestioneAgenda\obj\Debug\netcoreapp3.1\GestioneAgenda.AssemblyInfoInputs.cache
+C:\Users\39348\Desktop\Week.2Esercitazione\GestioneAgenda\GestioneAgenda\obj\Debug\netcoreapp3.1\GestioneAgenda.AssemblyInfo.cs
+C:\Users\39348\Desktop\Week.2Esercitazione\GestioneAgenda\GestioneAgenda\obj\Debug\netcoreapp3.1\GestioneAgenda.csproj.CoreCompileInputs.cache
+C:\Users\39348\Desktop\Week.2Esercitazione\GestioneAgenda\GestioneAgenda\obj\Debug\netcoreapp3.1\GestioneAgenda.dll
+C:\Users\39348\Desktop\Week.2Esercitazione\GestioneAgenda\GestioneAgenda\obj\Debug\netcoreapp3.1\GestioneAgenda.pdb
+C:\Users\39348\Desktop\Week.2Esercitazione\GestioneAgenda\GestioneAgenda\obj\Debug\netcoreapp3.1\GestioneAgenda.genruntimeconfig.cache
